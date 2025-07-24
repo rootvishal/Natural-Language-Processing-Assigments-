@@ -15,9 +15,6 @@ nlp-lab-assignments/
 ├── Assignment_07/ # Chatbot using NLP
 └── README.md
 
-markdown
-Copy
-Edit
 
 ## 🔧 Technologies Used
 - Python
